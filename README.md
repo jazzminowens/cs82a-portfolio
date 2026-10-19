@@ -10,3 +10,4 @@ at Santa Monica College (Fall 2026)
 - Module 6: SQL and Databases
 - Module 7: Machine Learning: Your First Predictive Models
 - Module 8: Working with AI (Generative AI)
+- Module 9: Cloud Computing, Careers, and Your Portfolio
