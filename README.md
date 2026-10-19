@@ -9,3 +9,4 @@ at Santa Monica College (Fall 2026)
 - Module 5: Visualization and Statistical Analysis in Python
 - Module 6: SQL and Databases
 - Module 7: Machine Learning: Your First Predictive Models
+- Module 8: Working with AI (Generative AI)
