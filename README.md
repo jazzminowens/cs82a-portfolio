@@ -8,12 +8,12 @@ I am a Biology Phd student interested in using data analysis to explore biologic
 **Tools**: Python, pandas, matplotlib, seabird, scimitar-learn, SQL, Jupyter
 
 ## Contents
-- [Final Project: Cholesterol and Heart Disease](Final%20Project)
-- [Module 2: Python foundations](module2)
-- [Module 3: Data: Types, Storage, and Cleaning](module3)
-- [Module 4: Statistics That Answer Questions](module4)
-- [Module 5: Visualization and Statistical Analysis in Python](module5)
-- [Module 6: SQL and Databases](module6)
-- [Module 7: Machine Learning: Your First Predictive Models](Module%207)
-- [Module 8: Working with AI (Generative AI)](Module%208)
-- [Module 9: Cloud Computing, Careers, and Your Portfolio](Module%209)
+- [Final Project: Cholesterol and Heart Disease](final-project)
+- [Module 2: Python foundations](module-02)
+- [Module 3: Data: Types, Storage, and Cleaning](module-03)
+- [Module 4: Statistics That Answer Questions](module-04)
+- [Module 5: Visualization and Statistical Analysis in Python](module-05)
+- [Module 6: SQL and Databases](module-06)
+- [Module 7: Machine Learning: Your First Predictive Models](module-07)
+- [Module 8: Working with AI (Generative AI)](module-08)
+- [Module 9: Cloud Computing, Careers, and Your Portfolio](module-09)
