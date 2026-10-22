@@ -13,7 +13,7 @@ I am a Biology Phd student interested in using data analysis to explore biologic
 - [Module 3: Data: Types, Storage, and Cleaning](module3)
 - [Module 4: Statistics That Answer Questions](module4)
 - [Module 5: Visualization and Statistical Analysis in Python](module5)
-- [Module 6: SQL and Databases](Module%206)
+- [Module 6: SQL and Databases](module6)
 - [Module 7: Machine Learning: Your First Predictive Models](Module%207)
 - [Module 8: Working with AI (Generative AI)](Module%208)
 - [Module 9: Cloud Computing, Careers, and Your Portfolio](Module%209)
